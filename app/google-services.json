@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290878738056",
+    "project_id": "go-app-e4a37",
+    "storage_bucket": "go-app-e4a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290878738056:android:de18e74dfe7fc45ec9593d",
+        "android_client_info": {
+          "package_name": "mobile.resky.x_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3hrkqhzdQQDaXcLHoVnm8D0gCUg7vvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

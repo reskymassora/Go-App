@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Go-App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="listFakultas">
+        <item>Ilmu Komputer</item>
+        <item>Bisnis dan Ilmu Sosial</item>
+    </string-array>
+
+    <string-array name="listProdi">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Bisnis Digital</item>
+        <item>Ilmu Komunikasi</item>
+        <item>Bahasa Inggris</item>
+    </string-array>
+
+</resources>
